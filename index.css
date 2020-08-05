@@ -1,0 +1,184 @@
+body {
+    font-family: 'Itim', cursive;
+}
+
+ul li {
+    list-style-type: none;
+    padding: 10px;
+}
+
+div.container-fluid.one {
+    padding: 10px;
+    padding-top: 10px;
+    background: url("https://www.i6net.com/wp-content/uploads/2015/06/background-header-technology.jpg");
+    color: white;
+    text-align: center;
+    font-family: 'Bad Script', cursive;
+}
+
+div.container-fluid.two {
+    background: url("https://images.unsplash.com/photo-1503455637927-730bce8583c0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+div.container.three {
+    width: 50%;
+    box-shadow: 0 4px 8px 0 rgba(129, 207, 224, 1), 0 6px 20px 0 rgba(129, 207, 224, 1);
+    padding-bottom: 30px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    position: relative;
+    bottom: 140px;
+    font-family: 'Oregano', cursive;
+    background-color: aquamarine;
+}
+
+div.container-fluid.four {
+    text-align: center;
+    padding: 20px;
+    background-color: lightgreen;
+}
+
+div.firstimg {
+    text-align: center;
+    padding: 70px 0 20px 0;
+}
+
+img.imgone {
+    border-radius: 15px;
+    height: 150px;
+    width: 150px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+h2.firsthead {
+    text-align: center;
+    padding: 15px;
+    font-size: 45px;
+    font-family: 'Kelly Slab', cursive;
+    color: darkorchid;
+}
+
+h4 {
+    font-size: 30px;
+    padding: 10px;
+    padding-top: 20px;
+}
+
+h2.secondhead {
+    padding: 15px;
+    padding-top: 40px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 45px;
+}
+
+h1.thirdhead {
+    padding: 20px;
+    color: slateblue;
+}
+
+h2.fourhead {
+    padding: 20px;
+    color: red;
+}
+
+div.btntwo {
+    padding: 10px;
+}
+
+button.btn-primary {
+    font-size: 35px;
+}
+
+p.secondp {
+    padding: 10px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 25px;
+}
+
+label {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+div.form-group.btnone {
+    padding-top: 20px;
+}
+
+div.form-group input, div.form-group select {
+    border: 2px solid darkturquoise;
+}
+
+#mainNavbar {
+    font-size: 1.0rem;
+    font-weight: 100;   
+    background-color: pink; 
+}
+
+#mainNavbar .nav-link {
+    color: black;
+    font-family: 'Kelly Slab', cursive;
+    padding: 15px;
+}
+
+#mainNavbar .nav-link:hover {
+    color: #EA1C2C;
+}
+
+#mainNavbar .navbar-brand {
+    color: #EA1C2C;
+    font-size: 3.5rem;
+    font-family: 'Dancing Script', cursive;
+    padding-right: 10px;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-menu {display: block;}
+
+.mwl {
+font-family: 'Merienda', cursive;
+}
+
+.ks {
+font-family: 'Oregano', cursive;
+font-size:18px;
+}
+
+.ks a{
+text-transform: none !important;
+color: red;
+font-size: 15px;
+}
+
+span.end2 {
+	float: right;
+	padding-right: 50px;
+	font-size: 13px;
+}
+
+span#endname {
+	color: red;
+}
+
+span.end1 {
+	font-family: 'Roboto Slab', serif;
+	padding-left: 15px;
+	font-size: 13px;
+}
